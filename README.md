@@ -1,3 +1,4 @@
+<center>
 <h1 align="center">Hi 👋, I'm Brajesh Mewada</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
@@ -34,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brajesh708&show_icons=true&locale=en" alt="brajesh708" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brajesh708&" alt="brajesh708" /></p>
+</center>
