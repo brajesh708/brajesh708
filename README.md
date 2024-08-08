@@ -35,6 +35,9 @@
 <p align="center">
 <h3 align="center">Connect with me:</h3>
 <div align="center">
+ <a href="mailto:brajeshmewada694@gmail.com" target="_blank">
+    <img align="center" src="assets/gmail.png" alt="mail" height="30" width="40" />
+  </a>
 <a href="https://linkedin.com/in/brajeshmewada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/brajeshmewada" height="30" width="40" /></a>
 <a href="https://instagram.com/brajeshmewada708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brajeshmewada708" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@brajesh7089" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@brajesh7089" height="30" width="40" /></a>
