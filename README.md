@@ -20,7 +20,9 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Bbs3nUZgXVl_WS5BlI4fUU8ice2Ms87G/view?usp=drivesdk](https://drive.google.com/file/d/1Bbs3nUZgXVl_WS5BlI4fUU8ice2Ms87G/view?usp=drivesdk)
 
 - ⚡ Fun fact **I Think I Am funny**
-
+<p align="center">
+  <img alt="Coding GIF" width="300" height="auto" src="assets/coding.gif"/>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/brajeshmewada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/brajeshmewada" height="30" width="40" /></a>
