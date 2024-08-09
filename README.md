@@ -33,7 +33,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brajesh708&" alt="brajesh708" /></p>
 <p align="center">
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 <div align="center">
  <a href="mailto:brajeshmewada694@gmail.com" target="_blank">
     <img align="center" src="assets/gmail.png" alt="mail" height="30" width="40" />
