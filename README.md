@@ -31,7 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brajesh708&show_icons=true&locale=en" alt="brajesh708" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.herokuapp.com/?user=brajesh708&" alt="brajesh708" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brajesh708&" alt="brajesh708" /></p>
 <p align="center">
 <h2 align="center">Connect with me:</h2>
 <div align="center">
