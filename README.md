@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [team project](https://github.com/brajesh708/new_teem_project.git)
 
-- 💬 Ask me about **React, html, CSS, JS, GIT AND GITHUB ,Python**
+- 💬 Ask me about **Html, CSS, JS, React, Github ,Python, Django**
 
 - 📫 How to reach me **brajeshmewada694@gmail.com**
 
